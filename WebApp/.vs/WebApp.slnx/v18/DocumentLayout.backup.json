@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Luyanda Mbanjwa\\Desktop\\AzureDev\\Web-App\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F505B6C-78AB-458C-8D3E-ECDDF4D2FAD2}|WebApp.csproj|c:\\users\\luyanda mbanjwa\\desktop\\azuredev\\web-app\\webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F505B6C-78AB-458C-8D3E-ECDDF4D2FAD2}|WebApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|c:\\users\\luyanda mbanjwa\\desktop\\azuredev\\web-app\\webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9979EE9D-1A6B-7C50-68E9-BD80DFEEF9FE}|WebApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\Luyanda Mbanjwa\\Desktop\\AzureDev\\Web-App\\WebApp\\Pages\\Index.cshtml*",
               "RelativeToolTip": "Pages\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-02T08:03:41.832Z",
               "EditorCaption": ""
